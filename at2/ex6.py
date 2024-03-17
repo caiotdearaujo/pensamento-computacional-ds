@@ -1,3 +1,5 @@
+# 6.Escreva um programa que solicita ao usuário o raio do círculo e calcule essa área usando a fórmula A = π * raio²
+
 from functions import ask_for_float
 from math import pi
 

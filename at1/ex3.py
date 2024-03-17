@@ -1,3 +1,5 @@
+# 3. Crie um programa que calcule e exiba a média aritmética de três notas informadas pelo usuário.
+
 from functions import ask_for_float
 
 print("Média aritmética de três notas \n")

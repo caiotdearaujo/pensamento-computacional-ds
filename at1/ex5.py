@@ -1,3 +1,5 @@
+# 5. Escreva um programa que calcule o IMC de um indivíduo, utilizando a fórmula IMC = peso / altura².
+
 from functions import ask_for_float
 
 print("Calculadora de índice de massa corporal \n")

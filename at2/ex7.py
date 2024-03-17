@@ -1,3 +1,5 @@
+# 7. escreva um programa que solicita ao usuário a largura e o comprimento de um retângulo Calcule o perímetro e a área do retângulo, exibindo-os na tela
+
 from functions import ask_for_float
 
 print("Calculadora de perímetro e área de retângulo\n")

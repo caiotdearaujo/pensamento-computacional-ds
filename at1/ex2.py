@@ -1,3 +1,5 @@
+# 2. Escreva um programa que calcule a média aritmética de dois números.
+
 from functions import ask_for_float
 
 print("Média aritmética de dois números \n")

@@ -1,3 +1,5 @@
+# 1. Escreva um programa que solicite ao usuário dois números e exiba a soma, subtração, multiplicação e divisão entre eles.
+
 from functions import ask_for_float
 
 print("Operações aritméticas básicas entre números \n")

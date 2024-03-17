@@ -1,3 +1,5 @@
+# 8. Escreva um programa que solicita ao usuário a massa do objeto e velocidade. Calcule a energia cinética usando a fórmula E = (mv²) / 2
+
 from functions import ask_for_float
 
 print("Calculadora de energia cinética\n")

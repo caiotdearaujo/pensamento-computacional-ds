@@ -1,3 +1,5 @@
+# 15. Escreva um programa para receber duas notas, uma para a prova 1 e a outra para a prova 2. Então verifique se o estudante foi aprovado ou reprovado em cada uma delas.
+
 from functions import ask_for_grade
 
 grade1 = ask_for_grade("Insira a nota da primeira prova: ")

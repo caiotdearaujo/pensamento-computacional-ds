@@ -1,3 +1,5 @@
+# 17. Escreva um programa para ler três números inteiros. Depois some os três números e verifique se a soma é divisível por 5.
+
 from functions import ask_for_int
 
 n1 = ask_for_int("Insira o primeiro inteiro: ")

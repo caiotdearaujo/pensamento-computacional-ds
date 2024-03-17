@@ -1,3 +1,5 @@
+# 10. Escreva um programa para testar se idade é maior ou menor do que 18 anos.
+
 def ask_for_age(message: str) -> int:
     while True:
         try:

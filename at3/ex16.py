@@ -1,3 +1,5 @@
+# 16. Escreva um programa que receba duas notas (uma nota para a prova1 e a outra para a prova2). Depois calcule a média aritmética simples dessas notas e verifique se o estudante é aprovado ou reprovado.
+
 from functions import ask_for_grade
 
 grade1 = ask_for_grade("Insira a nota da primeira prova: ")

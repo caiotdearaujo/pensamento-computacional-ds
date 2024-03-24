@@ -1,3 +1,5 @@
+# 21. Escreva um programa para construir duas pilhas p1 e p2.
+
 from stack import Stack
 
 p1 = Stack()

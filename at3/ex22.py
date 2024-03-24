@@ -1,3 +1,5 @@
+# 22. Escreva um programa para construir duas listas: l1 e l2.
+
 l1 = []
 l2 = ['Pernambuco', 'PE', 'Pe']
 

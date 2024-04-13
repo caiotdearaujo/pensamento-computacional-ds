@@ -1,0 +1,25 @@
+34. não haverá nada no output
+35. 50 40
+36. 950
+37. 50 40
+38. 300 é divisível por 3
+39. depende do número inserido pelo usuário: se for maior que 0, o output será que o número é positivo; se for menor, o output será que o número é negativo; se for igual a 0, mostrará que é zero.
+40. O código imprime o nome do dia da semana correspondente a um número de 1 a 7 ou exibe "Entrada inválida" para números fora desse intervalo.
+41. 3
+42. Primeiro for: 0
+    Primeiro for: 1
+    Primeiro for: 2
+    Primeiro for: 3
+    Segundo for: 4
+    Segundo for: 5
+    Segundo for: 6
+    Terceiro for: 14
+    Terceiro for: 18
+    Terceiro for: 22
+    Terceiro for: 26
+43. Brasil
+    Alemanha
+    França
+    Itália
+44. 5
+45. [(0, 'Trabalho duro'), (1, 'Paciência'), (2, 'Esperança'), (3, 'Sonhe grande')]
